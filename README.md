@@ -1,0 +1,1 @@
+Repositório destinado ao estudo do ESP32CAM e como integrá-lo ao Carrinho MQTT para fazer o monitoramento da casa à distância. Atualmente este repositório exibe um site na internet com o conteúdo da câmera e é acessível em qualquer lugar do mundo, mesmo que seja um servidor local, através do serviço NGROK
